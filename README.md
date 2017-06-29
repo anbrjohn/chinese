@@ -6,7 +6,6 @@ To run the program, from the terminal, enter:
 
 Currently, the tone test only shows the Hanzi. To display the Pinyin instead, manually edit this script so the parameter ```question_format="py"``` in the function ```test_tones```.
 
-***
 
 # Adding new word to the wordlist:
 
