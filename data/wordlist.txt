@@ -1,0 +1,173 @@
+中国	zhongguo	12	China
+我是	wo shi	34	I am
+他是	ta shi	14	he is
+咖啡	kafei	11	coffee
+拼音	pinyin	11	pinyin
+聪明	congming	15	smart
+高兴	gaoxing	14	happy
+俄国	eguo	22	Russia
+德国人	deguoren	222	German person
+你好	nihao	33	Hello
+啤酒	pijiu	23	beer
+学校	xuexiao	24	school
+要	yao	4	want
+老师	laoshi	31	teacher
+晚安	wanan	31	good night
+普通	putong	31	common, ordinary
+美国	meiguo	32	America
+叫	jiao	4	be named
+帅哥	shuaige	41	handsome guy
+汉语	hanyu	43	Chinese language
+谢谢	xiexie	45	thank you
+再见	zaijian	44	goodbye
+现在	xianzai	44	now
+妈妈	mama	15	mother
+爸爸	baba	45	dad
+奶奶	nainai	35	paternal grandmother
+萨尔	saer	43	Saarland
+大学	daxue	42	university
+学生	xuesheng	25	student
+贵姓	guixing	44	family name
+加拿大	jianada	124	Canada
+哪儿	nar	35	where
+什么	shenme	25	what
+医生	yisheng	11	doctor
+记者	jizhe	43	journalist
+名字	mingzi	25	name
+水	shui	3	water
+﻿爱	ai	4	love
+八	ba	1	eight
+北京	beijing	31	Beijing
+不客气	bukeqi	245	you're welcome; don't be polite
+不	bu	4	no; not
+茶	cha	2	tea
+吃	chi	1	eat
+出租车	chuzuche	111	taxi; cab
+打电话	dadianhua	344	make a phone call
+大	da	4	big; large
+的	de	5	indicates possession, like adding 's to a noun
+电脑	diannao	43	computer
+都	dou	1	all; both
+对不起	duibuqi	453	sorry
+二	er	4	two
+好	hao	3	good
+号	hao	4	number; day of a month
+喝	he	1	to drink
+和	he	2	and; with
+很	hen	3	very; quite
+回	hui	2	to return; to reply; to go back
+会	hui	4	know how to
+几	ji	3	how many; several; a few
+家	jia	1	family; home
+九	jiu	3	nine
+看	kan	4	see; look at; to watch
+来	lai	2	come; arrive; ever since; next
+了	le	5	indicates a completed or finished action
+冷	leng	3	cold
+六	liu	4	six
+没有	meiyou	23	not have; there is not
+哪	na	3	which; how
+那	na	4	that; then
+呢	ne	5	indicates a question; how about...?;
+朋友	pengyou	25	friend
+漂亮	piaoliang	45	pretty; beautiful
+苹果	pingguo	23	apple
+七	qi	1	seven
+请	qing	3	please; invite; to treat someone to something
+去	qu	4	go; to leave
+热	re	4	heat; hot
+人	ren	2	person; man; people
+认识	renshi	45	recognize; know (a person)
+三	san	1	three
+上	shang	4	above; up
+上午	shangwu	43	late morning (before noon)
+谁	shei	2	who
+十	shi	2	ten
+是	shi	4	be; is; are; am
+书	shu	1	book; letter
+说	shuo	1	speak
+四	si	4	four
+太	tai	4	too (much)
+五	wu	3	five
+喜欢	xihuan	35	to like
+下	xia	4	fall; below
+下午	xiawu	43	afternoon
+小	xiao	3	small; young
+小姐	xiaojie	35	young lady; miss; Ms.
+写	xie	3	to write; to compose
+一	yi	1	one; once; a
+一点儿	yidianr	135	a bit; a few
+有	you	3	have
+月	yue	4	moon; month
+在	zai	4	at; on; in; indicates an action in progress
+这	zhe	4	this
+昨天	zuotian	21	yesterday
+做	zuo	4	do; make
+坐	zuo	4	sit
+伞	san	3	umbrella
+宿舍	sushe	44	dorm
+电影	dianying	43	movie
+语法	yufa	33	grammar
+教室	jiaoshi	44	classroom
+身体	shenti	13	body, health
+同学	tongxue	22	classmate
+复习	fuxi	42	review, practice
+先生	xiansheng	15	Mister
+女士	nushi	34	Ms.
+再说	zaishuo	41	repeat
+可爱	keai	34	cute
+上午	shangwu	43	morning, AM
+银行	yinhang	22	bank
+恐怕	kongpa	34	maybe, I'm afraid that
+游泳	youyong	23	swim
+时间	shijian	21	time
+假期	jiaqi	41	vacation
+最近	zuijin	44	recently
+回家	huijia	21	go home
+听	ting	1	listen
+音乐	yinyue	14	music
+电视	dianshi	44	television
+但是	danshi	44	but. however
+为什么	weishenme	425	why
+时候	shihou	25	time
+下雨	xiayu	43	to rain
+有意思	youyisi	345	interesting
+昨天	zuotian	21	yesterday
+明天	mingtian	21	tomorrow
+今天	jintian	11	today. at the present. now
+怎么样	zenmeyang	354	how
+好吃	haochi	31	tasty
+天气	tianqi	14	weather
+讲座	jiangzuo	34	lecture
+知道	zhidao	14	know
+没关系	meiguanxi	215	it doesn't matter
+对不起	duibuqi	453	excuse me
+不客气	bukeqi	445	you're welcome
+学习	xuexi	22	study
+能	neng	2	can
+首先	shouxian	31	first of all
+然后	ranhou	24	then, after that
+最后	zuihou	44	last
+十字路口	shizilukou	2443	intersection
+转	zhuan	3	turn
+左	zuo	3	left
+右	you	4	right
+红绿灯	hongludeng	241	traffic light
+地方	difang	45	address, area
+飞机	feiji	11	airplane
+高铁	gaotie	13	high speed rail
+地铁	ditie	43	subway
+公交车	gongjiaoche	111	bus
+大巴	daba	41	long-distance bus
+对面	duimian	44	in front of, across the street
+公司	gongsi	11	company
+机场	jichang	13	airport
+远	yuan	3	far, distant
+何右走	xiang you zou	443	go right
+何左走	xiang zuo zou	433	go left
+直走	zhi zou 	23	go straight
+怎么走	zenme zou	353	how to go to
+火车站	huochezhan	314	train station
+坐	zuo	4	take (transportation)
+东西南北	dongxinanbei	1123	east west south north
+吃饭	chifan	14	to have a meal
